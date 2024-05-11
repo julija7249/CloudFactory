@@ -28,13 +28,4 @@
 
 **Фото:**
 
-![Smile](\Учеба_Аналитик\git\smile.png)
-
-
-![Smile][def]
-
-[def]: C:\Users\svir0\Downloads\smile2.jpg
-<image src="C:\Users\svir0\Downloads\smile2.jpg" alt="Текст с описанием картинки">
-
-![Текст с описанием картинки](https://ru.freepik.com/free-photo/beautiful-kitten-with-colorful-clouds_64664723.htm#query=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8&position=0&from_view=keyword&track=ais_user&uuid=21769201-504b-4d91-89b8-27a1971c1793)
-
+![Smile](./smile.png)
